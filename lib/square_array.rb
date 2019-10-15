@@ -1,3 +1,5 @@
 def square_array(array)
-  # your code here
+  while i < array.length do
+    array[i]
+    i++
 end
